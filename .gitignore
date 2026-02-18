@@ -1,0 +1,5 @@
+# Ignore all files inside raw folder
+data/raw/*
+
+# But keep the README file
+!data/raw/README.md
