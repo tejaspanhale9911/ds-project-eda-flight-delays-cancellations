@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="80"/>
-</p>
 
 <h1 align="center"> Flight Delays & Cancellations Analysis</h1>
 
