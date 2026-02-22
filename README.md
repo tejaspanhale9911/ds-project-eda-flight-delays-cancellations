@@ -1,6 +1,12 @@
 # Flight Delays & Cancellations Analysis
 
-### Data-Driven Insights into Airline Operational Performance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-blueviolet"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
+</p>
 
 
 ## Project Overview
