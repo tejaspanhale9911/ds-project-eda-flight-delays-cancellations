@@ -116,41 +116,22 @@ This indicates that internal operational efficiency improvements could significa
 
 
 
+## Sample Visualizations
 
+### Distribution of Arrival Delays
+![Arrival Delay Distribution](images/arrival_delay_distribution.png)
 
-\## Sample Visualizations
+### Average Arrival Delay by Airline
+![Average Delay by Airline](images/average_delay_by_airline.png)
 
+### Delay Rate (>15 mins) by Airline in Percentage
+![Delay Rate by Airline](images/delay_rate_by_airline_percentage.png)
 
+### Monthly Delay Trend
+![Monthly Delay Trend](images/monthly_delay_trend.png)
 
-\### Distribution of Arrival Delays
-
-!\[Arrival Delay Distribution](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/arrival\_delay\_distribution.png)
-
-
-
-\### Average Arrival Delay by Airline
-
-!\[Average Delay by Airline](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/average\_delay\_by\_airline.png)
-
-
-
-\### Delay Rate (>15 mins) by Airline in Percentage
-
-!\[Delay Rate by Airline](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/delay\_rate\_by\_airline\_percentage.png)
-
-
-
-\### Monthly Delay Trend
-
-!\[Monthly Delay Trend](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/monthly\_delay\_trend.png)
-
-
-
-\### Delay Cause Contribution
-
-!\[Delay Causes](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/delay\_causes\_contribution.png)
-
-
+### Delay Cause Contribution
+![Delay Causes](images/delay_causes_contribution.png)
 
 
 
