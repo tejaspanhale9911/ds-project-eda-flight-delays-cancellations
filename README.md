@@ -20,22 +20,22 @@ The objective is to uncover **operational inefficiencies**, **seasonal trends**,
 - **Derive** business recommendations  
 
 
-
 ## Project Structure
 
 ds-project-eda-flight-delays-cancellations/
 │
 ├── data/
-│ └── raw/ # Raw dataset (ignored via .gitignore)
+│   └── raw/                          # Raw dataset (ignored via .gitignore)
+│
 ├── notebooks/
-│ └── 01_eda_flight_delays.ipynb # Main analysis notebook
+│   └── 01_eda_flight_delays.ipynb    # Main analysis notebook
 │
 ├── images/
-│ ├── arrival_delay_distribution.png
-│ ├── average_delay_by_airline.png
-│ ├── delay_rate_by_airline_percentage.png
-│ ├── monthly_delay_trend.png
-│ └── delay_causes_contribution.png
+│   ├── arrival_delay_distribution.png
+│   ├── average_delay_by_airline.png
+│   ├── delay_rate_by_airline_percentage.png
+│   ├── monthly_delay_trend.png
+│   └── delay_causes_contribution.png
 │
 ├── README.md
 └── .gitignore
