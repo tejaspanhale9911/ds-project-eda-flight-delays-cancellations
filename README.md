@@ -50,11 +50,21 @@ ds-project-eda-flight-delays-cancellations/
 
 ├── notebooks/
 
-│ └── 01\_eda\_flight\_delays.ipynb
+│ └── 01\_eda\_flight\_delays.ipynb # Main analysis notebook
 
 │
 
-├── images/ # Visualization screenshots
+├── images/
+
+│ ├── arrival\_delay\_distribution.png
+
+│ ├── average\_delay\_by\_airline.png
+
+│ ├── delay\_rate\_by\_airline\_percentage.png
+
+│ ├── monthly\_delay\_trend.png
+
+│ └── delay\_causes\_contribution.png
 
 │
 
@@ -90,15 +100,15 @@ ds-project-eda-flight-delays-cancellations/
 
 Operational issues dominate total delay minutes:
 
-1\. Late Aircraft Delays  
+1\. Late Aircraft Delays
 
-2\. Carrier Delays  
+2\. Carrier Delays
 
-3\. NAS (Air Traffic Control) Delays  
+3\. NAS (Air Traffic Control) Delays
 
-4\. Weather Delays  
+4\. Weather Delays
 
-5\. Security Delays  
+5\. Security Delays
 
 
 
@@ -114,31 +124,31 @@ This indicates that internal operational efficiency improvements could significa
 
 \### Distribution of Arrival Delays
 
-!\[Arrival Delay Distribution](images/arrival\_delay\_distribution.png)
+!\[Arrival Delay Distribution](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/arrival\_delay\_distribution.png)
 
 
 
 \### Average Arrival Delay by Airline
 
-!\[Average Delay by Airline](images/average\_delay\_by\_airline.png)
+!\[Average Delay by Airline](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/average\_delay\_by\_airline.png)
 
 
 
-\### Delay Rate (>15 mins) by Airline
+\### Delay Rate (>15 mins) by Airline in Percentage
 
-!\[Delay Rate by Airline](images/delay\_rate\_by\_airline.png)
+!\[Delay Rate by Airline](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/delay\_rate\_by\_airline\_percentage.png)
 
 
 
 \### Monthly Delay Trend
 
-!\[Monthly Delay Trend](images/monthly\_delay\_trend.png)
+!\[Monthly Delay Trend](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/monthly\_delay\_trend.png)
 
 
 
 \### Delay Cause Contribution
 
-!\[Delay Causes](images/delay\_causes\_contribution.png)
+!\[Delay Causes](https://raw.githubusercontent.com/tejaspanhale9911/ds-project-eda-flight-delays-cancellations/main/images/delay\_causes\_contribution.png)
 
 
 
@@ -198,9 +208,7 @@ The analysis suggests that:
 
 
 
-\*\*Tejas Panhale\*\*  
+\*\*Tejas Panhale\*\*
 
 Aspiring Data Analyst | Python | Exploratory Data Analysis
-
-
 
