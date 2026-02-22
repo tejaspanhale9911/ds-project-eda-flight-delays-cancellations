@@ -77,7 +77,7 @@ This indicates that **internal operational efficiency improvements** could signi
 
 
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 ### Distribution of Arrival Delays
 ![Arrival Delay Distribution](images/arrival_delay_distribution.png)
