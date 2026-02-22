@@ -27,7 +27,6 @@ ds-project-eda-flight-delays-cancellations/
 │
 ├── data/
 │ └── raw/ # Raw dataset (ignored via .gitignore)
-│
 ├── notebooks/
 │ └── 01_eda_flight_delays.ipynb # Main analysis notebook
 │
