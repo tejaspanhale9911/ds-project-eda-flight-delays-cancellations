@@ -22,6 +22,7 @@ The objective is to uncover **operational inefficiencies**, **seasonal trends**,
 
 ## Project Structure
 
+```
 ds-project-eda-flight-delays-cancellations/
 │
 ├── data/
@@ -39,6 +40,7 @@ ds-project-eda-flight-delays-cancellations/
 │
 ├── README.md
 └── .gitignore
+```
 
 
 ## Key Findings
