@@ -1,5 +1,12 @@
-# Flight Delays & Cancellations Analysis
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="80"/>
+</p>
 
+<h1 align="center"> Flight Delays & Cancellations Analysis</h1>
+
+<p align="center">
+  Data-Driven Insights into Airline Operational Performance
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white"/>
