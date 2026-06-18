@@ -127,4 +127,4 @@ The analysis suggests that:
 ## Author
 
 **Tejas Panhale**  
-Aspiring Data Analyst | Python | Exploratory Data Analysis
+MSc Data Science Student @ NTU | Python | EDA | Pandas | Matplotlib
